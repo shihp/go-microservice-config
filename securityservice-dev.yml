@@ -1,3 +1,4 @@
 server_port: 6666
 server_name: Securityservice DEV
 amqp.connection.string: amqp://guest:guest@192.168.99.100:5672
+auth.server.user.url: https://192.168.99.100:9999/uaa/user
