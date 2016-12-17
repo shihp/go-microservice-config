@@ -1,0 +1,3 @@
+server_port: 6666
+server_name: Securityservice TEST
+amqp.connection.string: amqp://guest:guest@rabbitmq:5672
