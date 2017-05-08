@@ -1,3 +1,2 @@
 server_port: 6767
 server_name: Accountservice TEST
-zipkin.service.url: http://zipkin:9411
