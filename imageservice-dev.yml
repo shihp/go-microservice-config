@@ -1,4 +1,4 @@
 server_port: 7777
-server_name: Imageservice DEV
+server_name: Imageservice DEVV
 amqp_server_url: amqp://guest:guest@192.168.99.100:5672
 config_event_bus: springCloudBus
