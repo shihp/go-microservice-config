@@ -4,4 +4,4 @@ the_password: '{cipher}AQB1BMFCu5UsCcTWUwEQt293nPq0ElEFHHp5B2SZY8m4kUzzqxOFsMXHa
 amqp_server_url: amqp://guest:guest@rabbitmq:5672/
 config_event_bus: springCloudBus
 cockroachdb_conn_url: postgresql://root@cockroachdb1:26257/accounts?sslmode=disable
-zipkin_server_url: http://192.168.99.100:9411
+zipkin_server_url: http://zipkin:9411
