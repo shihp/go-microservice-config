@@ -5,3 +5,5 @@ amqp_server_url: amqp://guest:guest@rabbitmq:5672/
 config_event_bus: springCloudBus
 cockroachdb_conn_url: postgresql://root@cockroachdb1:26257/accounts?sslmode=disable
 zipkin_server_url: http://zipkin:9411
+
+hystrix.command.quotes-service.Timeout: 1000
