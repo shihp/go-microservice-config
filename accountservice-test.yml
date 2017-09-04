@@ -4,4 +4,4 @@ the_password: '{cipher}AQB1BMFCu5UsCcTWUwEQt293nPq0ElEFHHp5B2SZY8m4kUzzqxOFsMXHa
 amqp_server_url: amqp://guest:guest@rabbitmq:5672/
 config_event_bus: springCloudBus
 
-hystrix.command.quotes-service.Timeout: 1000
+hystrix.command.quotes-service.Timeout: 5000
