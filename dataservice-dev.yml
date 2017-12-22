@@ -1,5 +1,5 @@
 server_port: 7070
 server_name: Dataservice DEV
 amqp_server_url: amqp://guest:guest@192.168.99.100:5672
-cockroachdb_conn_url: jdbc:postgresql://account_user:account_password@192.168.99.100:26257/account?sslmode=disable
+cockroachdb_conn_url: postgresql://account_user:account_password@192.168.99.100:26257/account?sslmode=disable
 config_event_bus: springCloudBus
